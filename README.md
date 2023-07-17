@@ -1,1 +1,1 @@
-# app-front
+# The solution in src/App.tsx
